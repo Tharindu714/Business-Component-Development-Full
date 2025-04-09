@@ -1,1 +1,3 @@
 *.jsp linguist-language=JavaServerPages
+*.jsp linguist-generated=true
+*.jsp linguist-language=Java
