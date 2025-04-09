@@ -1,1 +1,2 @@
 *.jsp linguist-detectable=true
+*.jsp linguist-language=JavaServerPages
